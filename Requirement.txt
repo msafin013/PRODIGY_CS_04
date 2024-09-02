@@ -1,0 +1,8 @@
+Requirements for the working of the tool are:
+
+     'pynput' is required { if not installed can be installed with pip }
+
+                              " pip install pynput "
+
+     'python' is required { python 3.0 or above is required }
+
